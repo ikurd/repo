@@ -1,0 +1,55 @@
+Package: com.ikurd.bettersettings
+Version: 0.0.7
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Section: iKurd Tweaks
+Maintainer: Amanj <amanjnajat12@hotmail.com>
+Architecture: iphoneos-arm
+Filename: download.php
+Size: 1228154
+MD5sum: c5ff9aa13f28e6f3aba6e8726a48164b
+Description: بووكارێكی جوان بدە‌بە‌ ئە‌پی Settings
+Name: BetterSettings
+Author: Amanj Xoshnaw
+Depiction: http://www.ikurd.cf/cydown.php
+
+Package: com.ikurd.icon
+Version: 4.0
+Section: iKurd System
+Maintainer: Amanj <amanjnajat12@hotmail.com>
+Architecture: iphoneos-arm
+Filename: com.ikurd.icon_4.0_iphoneos-arm.deb
+Size: 81072
+MD5sum: b184d08834ed8f384703b9ee0054d2ab
+Description: ئایکۆنی سۆرس تکایە پێویستە دایبە زێنی
+Name: iKurd Repo Icon
+Author: Amanj Xoshnaw
+Depiction: http://www.ikurd.cf
+Essential: yes
+
+Package: com.ikurd.cydown
+Version: 6.2.7
+Section: iKurd Addons
+Maintainer: Amanj <amanjnajat12@hotmail.com>
+Architecture: iphoneos-arm
+Filename: com.ikurd.cydown_6.2.7_iphoneos-arm.deb
+Size: 958278
+MD5sum: 89e51c0cbf0b9fcf4dc7202d2262e995
+Description: بۆ کرینی تویکە بە پارەکان
+Name: CyDown
+Author: Amanj Xoshnaw
+Depiction: http://www.ikurd.cf/cydown.php
+
+
+Package: com.ikurd.localiapstore
+Version: 1.4-1
+Section: iKurd Tweaks
+Maintainer: Amanj <amanjnajat12@hotmail.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: com.ikurd.localiapstore_1.4-1_iphoneos-arm.deb
+Size: 54580
+MD5sum: e9d526e284f457b7b0401377cb177243
+Description: بۆ کرینی پارەی بەرنامەکان
+Name: LocalIAPStore
+Author: Amanj Xoshnaw
+Depiction: http://www.ikurd.cf/localiapstore.php
